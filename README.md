@@ -29,6 +29,8 @@ https://vita-group.github.io/4DGen/
 
 ### 🖼 Output
 
+point_cloud: https://huggingface.co/camenduru/4DGen-test/tree/main <br />
+
 https://github.com/camenduru/4DGen-colab/assets/54370274/5700108a-f921-44c2-96f6-8a2ce033c6c3
 
 https://github.com/camenduru/4DGen-colab/assets/54370274/0274b318-c747-4526-bf68-317d8f4b42dd
