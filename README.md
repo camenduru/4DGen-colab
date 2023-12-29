@@ -29,7 +29,7 @@ https://vita-group.github.io/4DGen/
 
 ### 🖼 Output
 
-point_cloud: https://huggingface.co/camenduru/4DGen-test/tree/main <br />
+point_cloud: (iteration_3000 ~3h T4) https://huggingface.co/camenduru/4DGen-test/tree/main <br />
 
 https://github.com/camenduru/4DGen-colab/assets/54370274/5700108a-f921-44c2-96f6-8a2ce033c6c3
 
