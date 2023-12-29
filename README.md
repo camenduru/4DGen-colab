@@ -9,7 +9,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/4DGen-colab/blob/main/4DGen_colab.ipynb) | 4DGen_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/4DGen-colab/blob/main/4DGen_colab.ipynb) | 4DGen_colab (High-RAM 😐)
 
 ## 🦆 Kaggle
 
