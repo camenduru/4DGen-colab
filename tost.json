@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/draft-04/hyper-schema#",
+    "type": "object",
+    "properties": {
+      "readme": {
+        "type": "string",
+        "title": "4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency",
+        "author": "Yuyang Yin, Dejia Xu, Zhangyang Wang, Yao Zhao, Yunchao Wei",
+        "code": "https://github.com/VITA-Group/4DGen",
+        "paper": "https://arxiv.org/abs/2312.17225",
+        "page": "https://vita-group.github.io/4DGen/",
+        "jupyter": "https://github.com/camenduru/4DGen-colab",
+        "post": "https://twitter.com/camenduru/status/1740734658059325718",
+        "tags": [
+          "Audio to Motion"
+        ],
+        "widget": "readme"
+      }
+    }
+  }

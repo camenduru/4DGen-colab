@@ -27,6 +27,9 @@ https://arxiv.org/abs/2312.17225
 ### 🌐 Page
 https://vita-group.github.io/4DGen/
 
+### 💬 Post
+https://twitter.com/camenduru/status/1740734658059325718
+
 ### 🖼 Output
 
 point_cloud: (iteration_3000 ~3h T4) https://huggingface.co/camenduru/4DGen-test/tree/main <br />
